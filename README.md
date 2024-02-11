@@ -16,7 +16,7 @@ Ce projet a été développé dans le cadre de notre formation en Systèmes Num�
 
 - **Backend :** Python avec le framework Hug
 - **Base de Données :** MySQL
-- **Interface Web :** [Précisez la technologie ou le framework utilisé]
+- **Interface Web :** HTML + CSS + JS
 - **API :** Développée en Python et intégrée avec le framework Hug
 
 ## Remerciements
